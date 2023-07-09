@@ -1,2 +1,3 @@
-This is for testing purpose
+This is for testing conflicts.
+This is from feature branch.
 
